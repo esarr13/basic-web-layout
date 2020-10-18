@@ -147,3 +147,7 @@ a {
 footer {
     text-align: center;
 }
+
+footer span {
+    font-size: 0.70em;
+}
